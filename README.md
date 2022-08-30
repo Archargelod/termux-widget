@@ -15,6 +15,7 @@ A [Termux] plugin app to run scripts in Termux with launcher shortcuts and widge
 - [Worthy Of Note](#Worthy-Of-Note)
 - [For Maintainers and Contributors](#For-Maintainers-and-Contributors)
 - [Forking](#Forking)
+- y
 ##
 
 
